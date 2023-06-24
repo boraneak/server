@@ -61,8 +61,8 @@ $ npm run test:cov
 ## checkboxes
 ### [] Authentication
 
-- [ ] Creating an authentication module
-- [ ] Implementing the "Sign in" endpoint
+- [x] Creating an authentication module
+- [x] Implementing the "Sign in" endpoint
 - [ ] JWT token
 - [ ] Implementing the authentication guard
 - [ ] Enable authentication globally 
