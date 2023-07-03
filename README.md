@@ -65,7 +65,7 @@ $ npm run test:cov
 - [x] Implementing the "Sign in" endpoint
 - [x] JWT token
 - [x] Implementing the authentication guard
-- [ ] Enable authentication globally 
+- [x] Enable authentication globally 
 - [ ] Passport integration
 
 
