@@ -68,5 +68,9 @@ $ npm run test:cov
 - [x] Enable authentication globally 
 - [ ] Passport integration
 
+### [] Authorization
 
-
+- [] Basic RBAC implementation 
+- [] Claims-based autorization
+- [] Integrating CASL 
+- [] Advanced: Implementing a PoliciesGuard
