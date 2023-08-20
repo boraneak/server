@@ -36,7 +36,7 @@ $ npm run test:cov
 
 ## checkboxes
 
-### [] Authentication
+### Authentication
 
 - [x] Creating an authentication module
 - [x] Implementing the "Sign in" endpoint
@@ -45,9 +45,9 @@ $ npm run test:cov
 - [x] Enable authentication globally
 - [ ] Passport integration
 
-### [] Authorization
+### Authorization
 
-- [] Basic RBAC implementation
-- [] Claims-based autorization
-- [] Integrating CASL
-- [] Advanced: Implementing a PoliciesGuard
+- [ ] Basic RBAC implementation
+- [ ] Claims-based autorization
+- [ ] Integrating CASL
+- [ ] Advanced: Implementing a PoliciesGuard
